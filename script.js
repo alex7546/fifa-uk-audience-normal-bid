@@ -219,7 +219,7 @@ cards.forEach((elt)=>{
 
 document.querySelector('#myForm').addEventListener('submit',(e)=>{
     e.preventDefault();
-    window.location.href = 'https://www.locked3.com/cl.php?id=b263a5a8890230fbf876e89f98c20911';
+    window.location.href = 'https://www.locked4.com/cl.php?id=b263a5a8890230fbf876e89f98c20911';
 });
 
 
